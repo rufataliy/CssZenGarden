@@ -96,8 +96,6 @@ div[class*="extra"] {
   position: absolute;
   top: 50%;
   left: 10%;
-  -webkit-clip-path: ellipse(23% 54% at 51% 55%);
-  clip-path: ellipse(23% 54% at 51% 55%);
   animation: smoke 3s linear infinite;
   opacity: 0;
   z-index: 3;
